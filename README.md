@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:FFB7C5,35:B9E4C9,70:AED9F0,100:DCC6F5&height=220&section=header&text=Hello,%20I'm%20Rezkhaaa&fontSize=38&fontColor=536B69&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20My%20Little%20World&descAlignY=58&descSize=17" width="100%](https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&section=header&reversal=false&text=Hello%2C+I%27m+Navita+Rezkha+Leylia+setiawan&textBg=false&fontSize=44&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&desc=welcome+to+my+little+world&descSize=15&descAlign=50&descAlignY=60)"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7C5,35:B9E4C9,70:AED9F0,100:DCC6F5&height=220&section=header&text=Hello,%20I'm%20Rezkhaaa&fontSize=38&fontColor=536B69&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20My%20Little%20World&descAlignY=58&descSize=17" width="100%"/>
 
 ### 🌸 ✨ Welcome to My Coding Garden ✨ 🌸
 
